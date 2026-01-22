@@ -113,7 +113,7 @@ Below are real screenshots from Allure Reports generated in this project:
 ## 🎥 Test Execution Demo (Real iOS Device)
 
 Click to watch the video:
-[![iOS Test Demo](docs/ios-test-preview.jpg)](docs/ios-test-demo.mp4)
+[![iOS Test Demo](docs/ios-test-preview.jpg)](docs/ios-test-demo.MP4)
 
 ---
 
