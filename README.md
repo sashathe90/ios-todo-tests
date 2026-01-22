@@ -110,11 +110,10 @@ Below are real screenshots from Allure Reports generated in this project:
 
 ---
 
-## 🎥 Test Execution Demo
+## 🎥 Test Execution Demo (Real iOS Device)
 
-
-### 📹 screen recording of real device test execution
-![Allure Dashboard](docs/allure-dashboard.png)
+Click to watch the video:
+[![iOS Test Demo](docs/ios-test-preview.jpg)](docs/ios-test-demo.mp4)
 
 ---
 
