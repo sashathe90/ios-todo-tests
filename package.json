@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "appium": "^3.1.2",
+    "appium-xcuitest-driver": "^10.15.0"
+  }
+}
