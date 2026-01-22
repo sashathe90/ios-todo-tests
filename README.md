@@ -106,7 +106,7 @@ Below are real screenshots from Allure Reports generated in this project:
 ![Allure Dashboard](docs/allure-dashboard.png)
 
 ### 🧪 Test details with screenshot
-![Allure Test Screenshot](docs/allure-test-screenshot.png)
+![Allure Test Screenshot](docs/allure-failed-test-screenshot.png)
 
 ---
 
