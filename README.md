@@ -152,9 +152,9 @@ This project was created to:
 
 ## 🏁 Quick Summary
 
-**Platform:** iOS (real device) 
-**Automation:** Appium + Java 
-**Style:** BDD (Cucumber)
-**Architecture:** Page Object + BasePage
-**Reports:** Allure with screenshots
-**Goal:** Portfolio & educational demo project
+- **Platform:** iOS (real device) 
+- **Automation:** Appium + Java 
+- **Style:** BDD (Cucumber)
+- **Architecture:** Page Object + BasePage
+- **Reports:** Allure with screenshots
+- **Goal:** Portfolio & educational demo project
